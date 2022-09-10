@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**john-np/john-np** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Project Title
 
-Here are some ideas to get you started:
+Hey! I'm John.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- **Associate Software Engineer** at **The MITRE Corporation**
+- Interested in **Full-Stack Web Development** and **music-based applications**
+- Feel free to connect with me: https://www.linkedin.com/in/john-pham-5301b21a6/
+
+
+## 🛠 Skills
+**Languages**: TypeScript, JavaScript, HTML/CSS, Python, C, C++
+**Frameworks**: Express.js, React.js, Node.js, JUCE, Material-UI, Bootstrap
+**Industry Knowledge**: Git, Linux, Containerization, VS Code, Visual Studio
+**Miscellaneous** : Full-Stack Development, Docker, Scripting, MongoDB, MySQL, Adobe Photoshop
