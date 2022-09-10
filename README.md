@@ -1,6 +1,4 @@
 
-# Project Title
-
 Hey! I'm John.
 
 ## 🚀 About Me
